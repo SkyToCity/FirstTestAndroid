@@ -7,4 +7,4 @@ Git has a mutable index called stage.
 
 
 Git Tracks changes.
-Git Just First In Demo Commit
+Git Just First In Demo Commit do you think?
